@@ -12,7 +12,7 @@
 
 <h3 align="Left">About Me:</h3>
 
-<a align="Center"> ![age](https://img.shields.io/badge/age-26-8be9fd) </a>
+<a> ![age](https://img.shields.io/badge/age-26-8be9fd) </a>
 </br>
 <a> ![focus](https://img.shields.io/badge/focus-JS-50fa7b) </a>
 </br>
