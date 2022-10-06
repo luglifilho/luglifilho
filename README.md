@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F7F7F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=HI+THERE%2C+I'M+DANIEL+LUGLI;A+JS+Student+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F7F7F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=HI+THERE%2C+I'M+DANIEL+LUGLI;+%F0%9F%9A%80)](https://git.io/typing-svg)
 </div>
 <div align="center">
 <a href="https://github.com/luglifilho"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo" alt="javascript" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo" alt="typescript" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo" alt="Node" /> <img src="https://img.shields.io/badge/-CSS_3-blueviolet?style=for-the-badge&logo=css3" />  </a>
