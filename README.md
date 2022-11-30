@@ -12,7 +12,7 @@
 
 <h3 align="Left">About Me:</h3>
 
-<a  href="https://github.com/luglifilho"> ![age](https://img.shields.io/badge/age-25-8be9fd) 
+<a  href="https://github.com/luglifilho"> ![age](https://img.shields.io/badge/age-26-8be9fd) 
 </br>
 ![focus](https://img.shields.io/badge/focus-JS-50fa7b) 
 </br>
