@@ -7,10 +7,12 @@
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luglifilho&layout=compact&langs_count=7&theme=dracula"/>
  </br>
 </br>
-<a href="https://github.com/luglifilho"> <img src="https://img.shields.io/badge/Java-F24F00?style=for-the-badge&logo" alt="java" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo" alt="javascript" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo" alt="typescript" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo" alt="Node" /> <img src="https://img.shields.io/badge/-CSS_3-blueviolet?style=for-the-badge&logo=css3" />  </a>
+<a href="https://github.com/luglifilho"> <img src="https://img.shields.io/badge/Java-F24F00?style=for-the-badge&logo" alt="java" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo" alt="javascript" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo" alt="typescript" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo" alt="Node" /> <img src="https://img.shields.io/badge/-CSS_3-blueviolet?style=for-the-badge&logo=css3" /> <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />  </a>
 </div>
 </br>
 </br>
+
+
 
 <h3 align="Left">About Me:</h3>
 
@@ -28,7 +30,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studing JavaScript
+- 🔭 I’m currently studing TypeScript
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
