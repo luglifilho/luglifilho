@@ -18,9 +18,9 @@
 
 <a  href="https://luglifilho.github.io/"> ![age](https://img.shields.io/badge/age-26-8be9fd) 
 </br>
-![focus](https://img.shields.io/badge/focus-TS-17569B)
+![focus](https://img.shields.io/badge/focus-JAVA-F24F00)
 </br>
- ![living](https://img.shields.io/badge/living-Santos-orange) 
+ ![living](https://img.shields.io/badge/living-Santos-blue) 
  </br>
   ![More...](https://img.shields.io/badge/Click_Here...-39e039) 
  </a>
