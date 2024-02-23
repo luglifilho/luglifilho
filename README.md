@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=000080&center=true&vCenter=true&multiline=true&width=600&height=80&lines=HI+THERE%2C+I'M+DANIEL+LUGLI+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=294B7622&center=true&vCenter=true&multiline=true&random=false&width=350&height=60&lines=HI+THERE%2C+I'M+DANIEL+LUGLI+;Full+Stack+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
 </br>
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luglifilho&layout=compact&langs_count=7&theme=dracula"/>
  </br>
